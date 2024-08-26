@@ -47,7 +47,8 @@ sudo python3 phycheshell.py
 <p>The tool will guide you through selecting the target OS, shell type, and additional options like encoding, obfuscation, and SSL encryption.</p>
 <p><em>The GIF below shows how the bypass is achieved on Windows Defender, as well as with a simple antivirus like Avast.</em></p>
 
-![ezgif-2-6b22f10553](https://github.com/user-attachments/assets/81000c38-9de1-4472-b84d-4479c3e38053)
+![ezgif-2-45f2122007](https://github.com/user-attachments/assets/3c693f5b-069b-4af7-b754-a1bf9f800d3b)
+
 <h3>🎧 Set Up a Listener</h3>
 <p>Once the reverse shell is generated, you can set up a listener to capture the incoming connection if you don't want to generate the listener automatically.</p>
 
