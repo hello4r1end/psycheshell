@@ -79,10 +79,6 @@ sudo openssl s_server -quiet -key key.pem -cert cert.pem -port &lt;listener-port
 
 <p>The author is not responsible for any misuse or damage caused by this tool. Always ensure you have proper authorization before conducting any form of penetration testing or ethical hacking.</p>
 
-<h2>📄 License</h2>
-
-<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
-
 <h2>🤝 Contributing</h2>
 
 <p>If you'd like to contribute to the project, feel free to submit a pull request or open an issue.</p>
